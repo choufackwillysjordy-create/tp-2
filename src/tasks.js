@@ -5,3 +5,6 @@ addTask("Learn Git");
 function deleteTask(task){
   console.log("Task deleted:", task);
 }
+function addTask(task){
+  console.log("New task:", task);
+}
